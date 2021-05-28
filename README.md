@@ -17,7 +17,7 @@ Make a short link by using [Cutt.ly](https://cutt.ly/) API key Or With [Da.gd](h
 
 # Credits ❤️
 * Mahesh Malekar For his Awesome GpLinks Opensource
-* [MRVishal2k2](https://github.com/Mrvishal2k2)
+* [MRVishal2k2](https://github.com/Mrvishal2k2) for making this awesome repo.
 
 ## Follow on:
 <p align="left">
